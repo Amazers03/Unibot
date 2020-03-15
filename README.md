@@ -3,7 +3,7 @@
 Pluggable [``asyncio``](https://docs.python.org/3/library/asyncio.html)
 [Telegram](https://telegram.org) userbot based on
 [Telethon](https://github.com/LonamiWebs/Telethon). 
-Forked by [cHAuHaN](https://t.me/amnd33p) from Uniborg
+Forked by [Amazers](https://t.me/Amazers_xD) from Uniborg
 
     
     **Your Telegram account might get banned.**
