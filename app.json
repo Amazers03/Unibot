@@ -1,18 +1,17 @@
 {
-  "name": "TGUserBot",
-  "description": "Only For Legends..... By : @amnd33p",
+  "name": "Unibot",
+  "description": "Only For Legends..... By : @Amazers_xD",
   "logo": "https://i.imgur.com/UNa7sDz.png",
   "keywords": [
     "Userbot",
     "Telegram",
-    "cHAuHaN",
-    "amnd33p",
+    "Amazers",
     "automatic",
     "bot"
   ],
-  "repository": "https://gitlab.com/cHAuHaNz/TGUserBot",
+  "repository": "https://gitlab.com/Amazers03/Unibot",
   "website": "https://telegram.dog/UniBorg",
-  "success_url": "https://telegram.dog/amnd33p",
+  "success_url": "https://telegram.dog/Amazers",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable environment variables.",
@@ -20,11 +19,11 @@
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "1118722"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": ""
+      "value": "4cdb9806f789fb6df4ee29a96d9141ba"
     },
     "HU_STRING_SESSION": {
       "description": "Get this value by running python3 GenerateStringSession.py locally",
@@ -44,22 +43,22 @@
     },
     "PRIVATE_GROUP_BOT_API_ID": {
       "description": "Send .g_id in any group to fill this value.",
-      "value": "-100",
+      "value": "-489941031",
       "required": false
     },
     "PRIVATE_CHANNEL_BOT_API_ID": {
       "description": "Send .g_id in any channel to fill this value. ReQuired for @Manuel15 inspiration to work!",
-      "value": "-100",
+      "value": "-489941031",
       "required": false
     },
     "PRIVATE_GROUP_REQUESTS_RECEIVER": {
       "description": "Send .g_id in any channel to fill this value. Required for #request auto-response to work!",
-      "value": "-100",
+      "value": "-489941031",
       "required": false
     },
     "PRIVATE_GROUP_FOR_REQUESTS_ID": {
       "description": "Send .g_id in any channel to fill this value. All the requests with #request will be forwarded to this group.",
-      "value": "-100",
+      "value": "-489941031",
       "required": false
     },"TMP_DOWNLOAD_DIRECTORY": {
       "description": "This is required for the plugins involving the file system.",
@@ -95,7 +94,7 @@
     },
     "G_BAN_LOGGER_GROUP": {
       "description": "Send .g_id in any group with all your administration bots (added)",
-      "value": "-100",
+      "value": "-489941031",
       "required": false
     },
     "TG_GLOBAL_ALBUM_LIMIT": {
