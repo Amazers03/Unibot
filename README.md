@@ -25,7 +25,7 @@ Forked by [Amazers](https://t.me/Amazers_xD) from Uniborg
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cHAuHaNz/TGUserBot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Amazers03/Unibot/tree/master)
 
 #### The Legacy Way
 Simply clone the repository and run the main file:
